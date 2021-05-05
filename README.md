@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Nahidul66
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+A Pythonista😍, Data scientist and Full-stack Web Engineer with backend focus. Aspiring Software engineer creating AI powered web-based Software.
+
+🔭 I’m currently working on my portfolio projects
+🌱 I’m currently learning Django and javescript. 
+😄 I’m currently learning Python, C/C++ and object-oriented programming language.
 
 <!---
 Nahidul66/Nahidul66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
